@@ -1,0 +1,19 @@
+.scheduled {
+    width: 90%;
+    margin-left: 5%;
+    line-height: 50px;
+}
+
+table {
+    border-collapse: collapse;
+    border-style: hidden;
+}
+
+table td, table th {
+    border-bottom: 1px solid white;
+}
+
+table .bold {
+    margin: 5px;
+    font-weight: bold;
+}
